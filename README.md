@@ -2,6 +2,8 @@
 
 A spatial machine learning system that predicts vehicle collision risk across Manhattan using a PyTorch neural network trained on 14 years of NYPD crash data.
 
+<img width="1344" height="875" alt="Screenshot 2026-05-29 170558" src="https://github.com/user-attachments/assets/8ac3a329-4cfe-454e-a677-09288e7f203a" /> <img width="1454" height="864" alt="Screenshot 2026-05-29 170546" src="https://github.com/user-attachments/assets/19d354b5-db2d-4f80-82d4-8409e3b24a3b" />
+
 
 ## What it does
 
